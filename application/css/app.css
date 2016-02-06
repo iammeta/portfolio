@@ -2,9 +2,18 @@
 BASE STYLES
 ********************************/
 body {
-  background-color: #7E0A9B;
+  background-color: #000000;
+  color: white;
 }
 
 #nav {
   background-color: yellow;
+  color: white;
+}
+a {
+  color: lime;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
 }
