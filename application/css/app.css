@@ -17,3 +17,6 @@ a {
 a:visited {
   color: black;
 }
+li {
+  list-style: armenian;
+}
