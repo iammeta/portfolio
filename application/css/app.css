@@ -4,3 +4,7 @@ BASE STYLES
 body {
   background-color: #7E0A9B;
 }
+
+#nav {
+  background-color: limegreen;
+}
